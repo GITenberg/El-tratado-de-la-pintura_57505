@@ -1,0 +1,60 @@
+_repo: El-tratado-de-la-pintura_57505
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rejón de Silva, Diego Antonio
+    aliases:
+    - Rejon de Silva, Diego Antonio
+    - De Silva, Diego Antonio Rejón
+    - Silva, Diego Antonio Rejón de
+    birthdate: 1740
+    deathdate: 1796
+    gutenberg_agent_id: '49434'
+    url: http://www.gutenberg.org/2009/agents/49434
+creator:
+  authors:
+  - agent_name: Leonardo, da Vinci
+    aliases:
+    - Vinci, Léonard de
+    - Vinci, Leonardo da
+    - Da Vinci, Leonardo
+    birthdate: 1452
+    deathdate: 1519
+    gutenberg_agent_id: '1629'
+    url: http://www.gutenberg.org/2009/agents/1629
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Leonardo_da_Vinci
+    - http://fr.wikipedia.org/wiki/Leonardo_da_Vinci
+  - agent_name: Alberti, Leon Battista
+    aliases:
+    - Alberti, Leo Baptista
+    - Alberti, L. B. (Leon Battista)
+    - Alberti, Leonis Baptiste
+    - Alberti, Leon Batista
+    - Alberti, Battista
+    - Alberti, Leone Battista
+    birthdate: 1404
+    deathdate: 1472
+    gutenberg_agent_id: '49433'
+    url: http://www.gutenberg.org/2009/agents/49433
+description: ''
+gutenberg_issued: '2018-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57505'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painting -- Early works to 1800'
+- !lcsh 'Leonardo, da Vinci, 1452-1519'
+- !lcc 'ND'
+- !lcsh 'Alberti, Leon Battista, 1404-1472'
+- GITenberg
+tableOfContents: Vida de Leonardo de Vinci -- El Tratado de la Pintura de Leonardo
+  de Vinci -- Notas al Tratado de Vinci -- Vida de Leon Bautista Alberti -- Notas
+  á la vida de Alberti -- Libro primero de la Pintura -- Libro segundo -- Libro tercero
+  -- Notas.
+title: El tratado de la pintura
+url: http://www.gutenberg.org/ebooks/57505
